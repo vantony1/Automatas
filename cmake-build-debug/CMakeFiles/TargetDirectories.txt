@@ -1,0 +1,3 @@
+/Users/victora/Desktop/CSC 173 Submission/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/victora/Desktop/CSC 173 Submission/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victora/Desktop/CSC 173 Submission/cmake-build-debug/CMakeFiles/CSC_173_Submission.dir

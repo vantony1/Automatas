@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.c
+stdlib.h
+-
+stdbool.h
+-
+stdio.h
+-
+string.h
+-
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+stdbool.h
+-
+
+/Users/victora/Desktop/CSC 173 Submission/Set.h
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+BitSet.h
+/Users/victora/Desktop/CSC 173 Submission/BitSet.h
+
+/Users/victora/Desktop/CSC 173 Submission/cDFA.c
+cDFA.h
+/Users/victora/Desktop/CSC 173 Submission/cDFA.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+dfa.h
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+nfa.h
+/Users/victora/Desktop/CSC 173 Submission/nfa.h
+
+/Users/victora/Desktop/CSC 173 Submission/cDFA.h
+stdio.h
+-
+stdbool.h
+-
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+Set.h
+/Users/victora/Desktop/CSC 173 Submission/Set.h
+
+/Users/victora/Desktop/CSC 173 Submission/dfa.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+dfa.h
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+stdbool.h
+-
+Set.h
+/Users/victora/Desktop/CSC 173 Submission/Set.h
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+
+/Users/victora/Desktop/CSC 173 Submission/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+dfa.h
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+nfa.h
+/Users/victora/Desktop/CSC 173 Submission/nfa.h
+cDFA.h
+/Users/victora/Desktop/CSC 173 Submission/cDFA.h
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+
+/Users/victora/Desktop/CSC 173 Submission/nfa.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+nfa.h
+/Users/victora/Desktop/CSC 173 Submission/nfa.h
+dfa.h
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+cDFA.h
+/Users/victora/Desktop/CSC 173 Submission/cDFA.h
+
+/Users/victora/Desktop/CSC 173 Submission/nfa.h
+stdbool.h
+-
+Set.h
+/Users/victora/Desktop/CSC 173 Submission/Set.h
+IntHashSet.h
+/Users/victora/Desktop/CSC 173 Submission/IntHashSet.h
+dfa.h
+/Users/victora/Desktop/CSC 173 Submission/dfa.h
+cDFA.h
+/Users/victora/Desktop/CSC 173 Submission/cDFA.h
+
