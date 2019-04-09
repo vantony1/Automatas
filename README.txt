@@ -1,18 +1,9 @@
-/*Name: Victor Nikhil Antony
-CSC 173
-NetID: vantony
-Assignment # Project 1
-I did not collaborate with anyone on this project
- */
-
-
 Implemented a DFA and NFA and a function for translating between NFA and DFA.
 
 As for the patterns that I found interesting:
 	I tested my DFA to recognize the pattern that a float represents.
 	I tested my NFA to recognize the patterns that numeric inputs including floats
 
-As for testing the translated DFA, the runtime to convert the NFA recognizing partial anagrams of 'Washington' was taking too long, so the code to test that is commented in the main file if you want to test it out.
 
 The DFA is represented in the file dfa.c
 The NFA is represented in the file nfa.c
